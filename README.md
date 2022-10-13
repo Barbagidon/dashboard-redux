@@ -1,1 +1,1 @@
-# Поиск вакансий на react + redux
+# Поиск вакансий на react + redux + js
